@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "videojs-contrib-hls": "^5.15.0",
+    "videojs-flash": "^2.2.0",
+    "vue": "^2.6.11",
+    "vue-video-player": "^5.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
